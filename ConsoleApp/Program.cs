@@ -8,7 +8,7 @@ namespace string_turu
         
         {
             #region String Formatlandırma
-            string isim = "Eren", soyisim = "Ercan", tcNo = "12345678901";
+            string isim = "Eren", soyisim = "Ercan", tcNo = "123456789001";
             int yas = 30;
             bool medeniHal = true;
 
